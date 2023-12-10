@@ -52,7 +52,7 @@ This code provides a basic implementation of a two-player Tic Tac Toe game using
 
 **Carl David Ilagan**
 
-programmer - 40%
+Programmer - 40%
 
 **Neo Francis Alday**
 

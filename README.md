@@ -48,6 +48,4 @@ If the game is over, the "Play Again" button allows the player to reset the game
 
 This code provides a basic implementation of a two-player Tic Tac Toe game using the Pygame library in Python. It includes functionalities for drawing the game board, handling player moves, checking for a win or tie, and offering the option to play again.
 
-**Start of the Game**
 
-![Screenshot](screenshots/sample1.png)

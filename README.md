@@ -51,3 +51,9 @@ This code provides a basic implementation of a two-player Tic Tac Toe game using
 
 **Screenshots**
 
+**Start of the Program**
+
+![sample1](https://github.com/IlaganCarl/Final-Project/assets/153367509/2a8ae538-16d5-4aeb-a09b-a04b399778e0)
+
+
+

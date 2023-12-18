@@ -55,5 +55,11 @@ This code provides a basic implementation of a two-player Tic Tac Toe game using
 
 ![sample1](https://github.com/IlaganCarl/Final-Project/assets/153367509/2a8ae538-16d5-4aeb-a09b-a04b399778e0)
 
+**When Players are playing**
+
+![sample2](https://github.com/IlaganCarl/Final-Project/assets/153367509/ec0272b1-d79a-4cdc-80b5-1f870d29f350)
+
+**1 Player wins the game**
+
 
 

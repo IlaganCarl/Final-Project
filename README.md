@@ -61,5 +61,11 @@ This code provides a basic implementation of a two-player Tic Tac Toe game using
 
 **1 Player wins the game**
 
+![sample3](https://github.com/IlaganCarl/Final-Project/assets/153367509/11d19e2a-445a-49c9-9944-c20bd35711a3)
+
+**When the game end at tie**
+
+
+
 
 

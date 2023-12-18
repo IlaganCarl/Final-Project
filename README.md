@@ -65,6 +65,8 @@ This code provides a basic implementation of a two-player Tic Tac Toe game using
 
 **When the game end at tie**
 
+![sample4](https://github.com/IlaganCarl/Final-Project/assets/153367509/2dc98866-af81-4066-b142-d30b1383a795)
+
 
 
 

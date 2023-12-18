@@ -1,13 +1,18 @@
-**Group Members:**
+## Self Assessment
+|       Metric       | 4 | 3 | 2 | 1 |
+|:------------------:|:-:|:-:|:-:|:-:|
+| Code Reusability   |   |   | ✔ |   |
+| Maintainability    |   | ✔ |   |   |
+| Scalability        | ✔ |   |   |   |
+| Execution          | ✔ |   |   |   |
+| Originality        |   |   | ✔ |   |
+| Overall Impression |   | ✔ |   |   |
 
-Carl David Ilagan
+## Group Assessment
+|  SR-CODE |       MEMBER      | GRADE |   CONTRIBUTION  |
+|:--------:|:-----------------:|:-----:|:---------------:|
+| 21-06153 | ILAGAN, CARL DAVID| 40%   | Lead Programmer |
+| 20-58433 | ALDAY, NEO FRANCIS| 30%   | Troubleshooter  |
+| 21-58727 |BARREDA,JONNEL ANDY| 30%   | Debugger        |
+|          | TOTAL             | 100%  |                 |
 
-Programmer - 40%
-
-**Neo Francis Alday**
-
-2nd Programmer - 30%
-
-**Jonnel Andy Barreda**
-
-Lead Tester and Debugger - 30%
